@@ -15,10 +15,10 @@ First, prepare a VPS based on your needs. VPS from regions like Taiwan, the U.S.
 
 | Name | CPU | RAM | Disk | Bandwidth | Coupon | Price |
 |------|-----|-----|------|------------|---------|--------|
-| hostdare | 1 Core | 768MB | 10G | 500G | B7H52ZQR1Z | [\$12.9/year](https://bill.hostdare.com/aff.php?aff=3766&gid=18) |
+| hostdare | 1 Core | 768MB | 10G | 500G | B7H52ZQR1Z | [\$26/year](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 Core | 2G | 27G | 2T |  | [\$13.9/year](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1 Core | 1G | 50G | 1T |  | [\$10.2/year](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=306) |
-| rarecloud | 1 Core | 768MB | 15G | 1T | SLICEDHALF50 | [\$9.75/year](https://rarecloud.io/clients/aff.php?aff=738&pid=6) |
+| lightlayer | 1 Core | 1G | 50G | 1T |  | [\$25/year](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
+| rarecloud | 1 Core | 768MB | 15G | 1T | SLICEDHALF50 | [\$20/year](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ### 2. Purchase a VPS
 

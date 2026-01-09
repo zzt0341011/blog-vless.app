@@ -30,10 +30,10 @@ VLESS имеет более простую структуру, меньшую в
 
 | Название | CPU | RAM | Диск | Трафик | Промокод | Цена |
 |-----------|-----|-----|------|---------|----------|------|
-| hostdare | 1 ядро | 768М | 10ГБ | 500ГБ | B7H52ZQR1Z | [12.9 USD/год](https://bill.hostdare.com/aff.php?aff=3766&gid=18) |
+| hostdare | 1 ядро | 768М | 10ГБ | 500ГБ | B7H52ZQR1Z | [26 USD/год](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 ядра | 2ГБ | 27ГБ | 2ТБ |  | [13.9 USD/год](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1 ядро | 1ГБ | 50ГБ | 1ТБ |  | [10.2 USD/год](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=306) |
-| rarecloud | 1 ядро | 768М | 15ГБ | 1ТБ | SLICEDHALF50 | [9.75 USD/год](https://rarecloud.io/clients/aff.php?aff=738&pid=6) |
+| lightlayer | 1 ядро | 1ГБ | 50ГБ | 1ТБ |  | [25 USD/год](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
+| rarecloud | 1 ядро | 768М | 15ГБ | 1ТБ | SLICEDHALF50 | [20 USD/год](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ---
 

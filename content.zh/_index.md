@@ -16,10 +16,10 @@ VLESS 是一个轻量级的代理协议，由 [V2Ray](https://en.wikipedia.org/w
 
 | 名称 | cpu | 内存 | 硬盘 | 月流量 | 优惠码 | 价格 |
 |-----|-----|-----|-----|-----|-----|-----|
-| hostdare | 1核 | 768m | 10G | 500G | B7H52ZQR1Z | [12.9美金/年](https://bill.hostdare.com/aff.php?aff=3766&gid=18) |
+| hostdare | 1核 | 768m | 10G | 500G |  | [26美金/年](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2核 | 2G | 27G | 2T |  | [13.9美金/年](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1核 | 1G | 50G | 1T |  | [10.2美金/年](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=306) |
-| rarecloud | 1核 | 768M | 15G | 1T | SLICEDHALF50 | [9.75美金/年](https://rarecloud.io/clients/aff.php?aff=738&pid=6) |
+| lightlayer | 1核 | 1G | 50G | 不限 |  | [25美金/年](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
+| rarecloud | 1核 | 768M | 15G | 1T |  | [20美金/年](https://rarecloud.io/clients/aff.php?aff=738&pid=1) |
 
 ### 2、购买vps
 
