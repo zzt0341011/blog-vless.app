@@ -16,9 +16,9 @@ VLESS 是一个轻量级的代理协议，由 [V2Ray](https://en.wikipedia.org/w
 
 | 名称 | cpu | 内存 | 硬盘 | 月流量 | 优惠码 | 价格 |
 |-----|-----|-----|-----|-----|-----|-----|
-| hostdare | 1核 | 768m | 10G | 500G |  | [26美金/年](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
+| racknerd | 1核 | 1G | 24G | 2T |  | [11.29美金/年](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
+| hostdare | 1核 | 1.5G | 10G | 1T | DEAL50 | [12.99美金/年](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2核 | 2G | 27G | 2T |  | [13.9美金/年](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1核 | 1G | 50G | 不限 |  | [25美金/年](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
 | rarecloud | 1核 | 768M | 15G | 1T |  | [20美金/年](https://rarecloud.io/clients/aff.php?aff=738&pid=1) |
 
 ### 2、购买vps
@@ -118,7 +118,7 @@ VERSION=v2.5.5 && bash <(curl -Ls "https://raw.githubusercontent.com/mhsanaei/3x
 
 ![vless-10095.jpg](https://vless.app/img/vless-10095.jpg)
 
-### 4、申请域名证书
+### 6、申请域名证书
 
 - 连接vps，执行命令
 
@@ -138,7 +138,7 @@ certbot --nginx -d 3xui.你的域名
 
 ![vless-10097.jpg](https://vless.app/img/vless-10097.jpg)
 
-### 5、配置3x-ui
+### 7、配置3x-ui
 
 - 打开谷歌浏览器，输入前面记录的url
 - 如图输入前面记录的账号和密码
@@ -190,25 +190,32 @@ certbot --nginx -d 3xui.你的域名
 vless://931884c4-494f-4f35-ae55-10ae38f3da95@bjly.mene.lol:53518?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=random&pbk=zFZlzd84FwymBun_YXSLNNz83vGJnUGi_34doZWr3Ac&sid=b83ffb&spx=%2F&type=tcp&headerType=none#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A--rea--%E5%AE%A2%E6%88%B7001%20-%20Cloned-200G
 ```
 
-### 推荐机场
+### 8、推荐机场
 
-- 如果你觉得**自己搭建节点**太麻烦，这里有性价比高的机场推荐
 * 以下机场按照流量付费，网站里有软件的使用和安装教程
 * 购买流量以后，不限制时间，流量用完为止
+* 如果网站无法访问，则说明已经被墙，更换其他网站即可
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [农夫山泉](https://www.nfsq.us/#/register?code=RaUmorb2) | 15元 | 200G | 30个 |
-| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15元 | 130G | 48个 |
-| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
-| [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
-| [顶级机场](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | 12元 | 200G | 43个 |
+| [北美机场](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10元 | 1000G | 35个 |
+| [一元中转](https://yyzz.ink/#/register?code=mqini9Q0) | 12元 | 1年 | 40个 |
+| [996云](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12元 | 1年 | 42个 |
+| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
-| [超实惠](https://cshjc.shop/register?code=GadIbTHc) | 34元 | 666G | 40个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15元 | 130G | 48个 |
+| [speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15元 | 100G | 42个 |
+| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元   | 200G |32个|
+| [网际快车](https://wjkc66.vip?c=REZUOC) | 16元 | 100G | 54个 |
+| [赔钱机场](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19元 | 1000G | 37个 |
+| [kitty](https://kitty.su/#/register?code=FodKng1b) | 24元 | 1年 | 42个 |
+| [渔云机场](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40元 | 300G | 32个 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40元 | 100G | 70个 |
+| [超实惠](https://cshjc.shop/register?code=GadIbTHc) | 51元 | 666G | 40个 |
 | [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
-| [自由猫](https://us.freecat.cc/register?code=czdF7PXY) | 50元 | 500G | 90个 |
+| [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
 | [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |
-| [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 20元 | 1000G | 40个 |
+| [墨菲云](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5元 | 100G | 33个 |
 
 - 关于安卓手机和苹果手机如何导入节点，可以看这里
 - [安卓手机v2rayng购买和导入节点教程](https://v2rayng.4566.lol/zh)

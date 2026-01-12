@@ -30,9 +30,9 @@ VLESS имеет более простую структуру, меньшую в
 
 | Название | CPU | RAM | Диск | Трафик | Промокод | Цена |
 |-----------|-----|-----|------|---------|----------|------|
-| hostdare | 1 ядро | 768М | 10ГБ | 500ГБ | B7H52ZQR1Z | [26 USD/год](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
+| racknerd | 1ядра | 1ГБ | 24ГБ | 2ТБ |  | [11.29 USD/год](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
+| hostdare | 1ядра | 1.5ГБ | 10ГБ | 1ТБ | DEAL50 | [12.99 USD/год](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 ядра | 2ГБ | 27ГБ | 2ТБ |  | [13.9 USD/год](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1 ядро | 1ГБ | 50ГБ | 1ТБ |  | [25 USD/год](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
 | rarecloud | 1 ядро | 768М | 15ГБ | 1ТБ | SLICEDHALF50 | [20 USD/год](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ---
@@ -186,24 +186,32 @@ vless://931884c4-[494f-4f35-ae55-10ae38f3da95@bjly.mene.lol](mailto:494f-4f35-ae
 
 ---
 
-### Рекомендуемые VPN-провайдеры
+### 8、Рекомендуемые VPN-провайдеры
 
-Если вам кажется, что **настраивать самостоятельно** слишком сложно, вот несколько надёжных провайдеров с хорошими тарифами.  
-Все они предоставляют инструкции по установке и оплате по трафику.
+* Ниже перечисленные сервисы работают по модели оплаты за трафик. На их сайтах есть инструкции по установке и использованию программного обеспечения.
+* После покупки трафика срок действия не ограничен — он действителен до полного расходования.
+* Если сайт недоступен, скорее всего он заблокирован — просто выберите другой сервис.
 
-| Название | Цена | Трафик | Кол-во узлов |
-|-----------|--------|---------|--------------|
-| [Нунфушаньцюань](https://www.nfsq.us/#/register?code=RaUmorb2) | ¥15 | 200ГБ | 30 |
-| [Кольцо](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15 | 130ГБ | 48 |
-| [Пикачу](https://pkhub.net/#/register?code=A6O9EIj0) | ¥4.5 | 10ГБ | 42 |
-| [Интернет-Экспресс](https://wjkc66.vip?c=REZUOC) | ¥7 | 20ГБ | 54 |
-| [Топ VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | ¥12 | 200ГБ | 43 |
-| [Супер VPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | ¥13 | 200ГБ | 41 |
-| [Эконом VPN](https://cshjc.shop/register?code=GadIbTHc) | ¥34 | 666ГБ | 40 |
-| [BabyCloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | ¥55 | 600ГБ | 64 |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY) | ¥50 | 500ГБ | 90 |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | ¥98 | 280ГБ | 140 |
-| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | ¥20 | 1000ГБ | 40 |
+| Название | Цена | Трафик | Узлы |
+| :--- | :--- | :--- | :--- |
+| [Скоростной аэропорт](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200 ГБ | 30 |
+| [Североамериканский аэропорт](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000 ГБ | 35 |
+| [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 год | 42 |
+| [Один цент](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 ГБ | 40 |
+| [Крутой аэропорт](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200 ГБ | 41 |
+| [Mojie Cloud](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130 ГБ | 48 |
+| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100 ГБ | 42 |
+| [Nongfu Spring Cloud](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200 ГБ | 32 |
+| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100 ГБ | 54 |
+| [Убыточный аэропорт](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000 ГБ | 37 |
+| [Kitty Cloud](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 год | 42 |
+| [Fisher Cloud](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300 ГБ | 32 |
+| [Ofopp Cloud](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100 ГБ | 70 |
+| [Супервыгодный аэропорт](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666 ГБ | 40 |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600 ГБ | 64 |
+| [Тысяческоростной кот](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512 ГБ | 46 |
+| [Nai Cloud](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280 ГБ | 140 |
+| [Murphy Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100 ГБ | 33 |
 
 ---
 

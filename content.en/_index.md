@@ -15,9 +15,9 @@ First, prepare a VPS based on your needs. VPS from regions like Taiwan, the U.S.
 
 | Name | CPU | RAM | Disk | Bandwidth | Coupon | Price |
 |------|-----|-----|------|------------|---------|--------|
-| hostdare | 1 Core | 768MB | 10G | 500G | B7H52ZQR1Z | [\$26/year](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
+| racknerd | 1h | 1G | 24G | 2T |  | [\$11.29/year](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
+| hostdare | 1h | 1.5G | 10G | 1T | DEAL50 | [\$12.99/year](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 Core | 2G | 27G | 2T |  | [\$13.9/year](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| lightlayer | 1 Core | 1G | 50G | 1T |  | [\$25/year](https://account.lightlayer.net/?cmd=cart&action=add&affid=677&id=363) |
 | rarecloud | 1 Core | 768MB | 15G | 1T | SLICEDHALF50 | [\$20/year](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ### 2. Purchase a VPS
@@ -163,27 +163,34 @@ Example node configuration:
 vless://931884c4-494f-4f35-ae55-10ae38f3da95@bjly.mene.lol:53518?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=random&pbk=zFZlzd84FwymBun_YXSLNNz83vGJnUGi_34doZWr3Ac&sid=b83ffb&spx=%2F&type=tcp&headerType=none#Poland--rea--Client001%20-%20Cloned-200G
 ```
 
-### Recommended Proxy Providers
+### 8、Recommended Proxy Providers
 
 If setting up your own node is too complicated, here are some affordable proxy service providers.
 
-* These providers charge based on data usage.
-* Tutorials for software installation and use are available on their websites.
-* No time limit — valid until your data quota runs out.
+* The following providers charge based on traffic usage. Their websites include software usage and installation tutorials.
+* After purchasing traffic, there is no time limit — the traffic remains valid until it is fully used.
+* If a website is inaccessible, it likely means it has been blocked; simply switch to another provider.
 
-| Name | Price | Data | Nodes |
-|------|--------|--------|--------|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=RaUmorb2) | ¥15 | 200G | 30 |
-| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | ¥15 | 130G | 48 |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | ¥4.5 | 10G | 42 |
-| [WJKC Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20G | 54 |
-| [Top VPN](https://xn--mes358a9urctx.com/#/register?code=bnWsDzhG) | ¥12 | 200G | 43 |
-| [NB VPN](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | ¥13 | 200G | 41 |
-| [Super Saver](https://cshjc.shop/register?code=GadIbTHc) | ¥34 | 666G | 40 |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | ¥55 | 600G | 64 |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | ¥50 | 500G | 90 |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | ¥98 | 280G | 140 |
-| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | ¥20 | 1000G | 40 |
+| Name | Price | Traffic | Nodes |
+| :--- | :--- | :--- | :--- |
+| [Speed Airport](https://jsjc.cfd/#/register?code=w7rsHzIL) | 8 CNY | 200 GB | 30 |
+| [North America Airport](https://www.northamericanairport-official-mirror.hair/#/register?code=j2rr2X4T) | 10 CNY | 1000 GB | 35 |
+| [996 Cloud](https://dash.996cloud.top/#/register?code=WO0oVqnE) | 12 CNY | 1 Year | 42 |
+| [One Cent](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 CNY | 100 GB | 40 |
+| [Awesome Airport](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 CNY | 200 GB | 41 |
+| [Mojie Cloud](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 15 CNY | 130 GB | 48 |
+| [Speedy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 15 CNY | 100 GB | 42 |
+| [Nongfu Spring Cloud](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 CNY | 200 GB | 32 |
+| [InterNet Express](https://wjkc66.vip?c=REZUOC) | 16 CNY | 100 GB | 54 |
+| [Loss-Making Airport](https://www.xn--mes358aby2apfg.site/register?code=OufF6cCL) | 19 CNY | 1000 GB | 37 |
+| [Kitty Cloud](https://kitty.su/#/register?code=FodKng1b) | 24 CNY | 1 Year | 42 |
+| [Fisher Cloud](https://cloudfisher.net/web/#/login?code=NatdlqpR) | 40 CNY | 300 GB | 32 |
+| [Ofopp Cloud](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 CNY | 100 GB | 70 |
+| [Super Value Airport](https://cshjc.shop/register?code=GadIbTHc) | 51 CNY | 666 GB | 40 |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 CNY | 600 GB | 64 |
+| [Thousand-Speed Cat](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512 GB | 46 |
+| [Nai Cloud](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280 GB | 140 |
+| [Murphy Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100 GB | 33 |
 
 For tutorials on importing nodes:
 - [Android (v2rayNG) Tutorial](https://v2rayng.4566.lol/)
