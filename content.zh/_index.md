@@ -19,7 +19,7 @@ VLESS 是一个轻量级的代理协议，由 [V2Ray](https://en.wikipedia.org/w
 | racknerd | 1核 | 1G | 24G | 2T |  | [11.29美金/年](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
 | hostdare | 1核 | 1.5G | 10G | 1T | DEAL50 | [12.99美金/年](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2核 | 2G | 27G | 2T |  | [13.9美金/年](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| rarecloud | 1核 | 768M | 15G | 1T |  | [20美金/年](https://rarecloud.io/clients/aff.php?aff=738&pid=1) |
+| rarecloud | 1核 | 768M | 15G | 1T | SNOWMICRO1072 | [10.72美金/年](https://rarecloud.io/clients/aff.php?aff=738&pid=1) |
 
 ### 2、购买vps
 

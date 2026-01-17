@@ -33,7 +33,7 @@ VLESS имеет более простую структуру, меньшую в
 | racknerd | 1ядра | 1ГБ | 24ГБ | 2ТБ |  | [11.29 USD/год](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
 | hostdare | 1ядра | 1.5ГБ | 10ГБ | 1ТБ | DEAL50 | [12.99 USD/год](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 ядра | 2ГБ | 27ГБ | 2ТБ |  | [13.9 USD/год](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| rarecloud | 1 ядро | 768М | 15ГБ | 1ТБ | SLICEDHALF50 | [20 USD/год](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
+| rarecloud | 1 ядро | 768М | 15ГБ | 1ТБ | SNOWMICRO1072 | [10.72 USD/год](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ---
 

@@ -18,7 +18,7 @@ First, prepare a VPS based on your needs. VPS from regions like Taiwan, the U.S.
 | racknerd | 1h | 1G | 24G | 2T |  | [\$11.29/year](https://my.racknerd.com/index.php?rp=/store/new-year-specials&aff=6665) |
 | hostdare | 1h | 1.5G | 10G | 1T | DEAL50 | [\$12.99/year](https://bill.hostdare.com/aff.php?aff=3766&pid=113) |
 | cloudcone | 2 Core | 2G | 27G | 2T |  | [\$13.9/year](https://app.cloudcone.com.cn/vps/435/create?ref=11035&token=halloween-25-fs-ssd-vps-2) |
-| rarecloud | 1 Core | 768MB | 15G | 1T | SLICEDHALF50 | [\$20/year](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
+| rarecloud | 1 Core | 768MB | 15G | 1T | SNOWMICRO1072 | [\$10.72/year](https://rarecloud.io/clients/aff.php?aff=738&pid=16) |
 
 ### 2. Purchase a VPS
 
