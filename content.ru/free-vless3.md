@@ -15,6 +15,7 @@ keywords:
 - бесплатный прокси
 - бесплатные VPN узлы
 weight: 5
+type: docs
 ---
 
 # Бесплатные узлы Clash, VLESS, VMess и Trojan (ежедневное обновление)
