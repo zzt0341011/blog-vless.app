@@ -60,12 +60,9 @@ https://sod.psjch.xyz/yaml/c6db78eed0b2035309891151b5d322f9.yaml
 ## V2Ray 通用订阅
 
 ```text
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=tcp&headerType=none&host=download.nvidia.com#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-socks://Og%3D%3D@112.28.149.152:8443#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=tcp&headerType=none&host=swcdn.apple.com#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?encryption=none&security=tls&sni=31.76.251.127.cdn-one.org&type=ws&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA#PL%E6%B3%A2%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@172.64.35.127:443?security=tls&sni=yks-dd9.pages.dev&fp=chrome&type=ws&path=%2F#%F0%9F%87%AB%F0%9F%87%B7FR_1182%7C346KB%2Fs%7CV005-260618%2001
+hysteria2://03942219-0dd7-4544-aeb1-07f9db0be960@191.44.90.3:8444?sni=premium-nl.geodema.network&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=fk_aUHA_JijqIiSXZH61Ur6WSfPQ-Ke7J1IGgEZAh0I&type=tcp&headerType=none#Reality%2C%20VK%20%5BV.O.I.D%5D
+vless://357de1b6-b5ec-4773-8d21-459ec4d8a408@78.17.7.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.netdrug.ru&fp=firefox&pbk=qk0wa6_f5PVvwBCg2V1Bn8uHQn4qF1qR7y51eN0shiA&sid=c173b2e4b98a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40WhiteDNS%20%7C%20FI1%7C16.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BB-FI%7CGM-FI%7CCL-FI%7CSP-FI
 ```
 
 适用于：
