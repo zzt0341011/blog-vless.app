@@ -60,9 +60,18 @@ https://sod.psjch.xyz/yaml/c6db78eed0b2035309891151b5d322f9.yaml
 ## V2Ray 通用订阅
 
 ```text
-hysteria2://03942219-0dd7-4544-aeb1-07f9db0be960@191.44.90.3:8444?sni=premium-nl.geodema.network&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@159.194.226.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=fk_aUHA_JijqIiSXZH61Ur6WSfPQ-Ke7J1IGgEZAh0I&type=tcp&headerType=none#Reality%2C%20VK%20%5BV.O.I.D%5D
-vless://357de1b6-b5ec-4773-8d21-459ec4d8a408@78.17.7.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.netdrug.ru&fp=firefox&pbk=qk0wa6_f5PVvwBCg2V1Bn8uHQn4qF1qR7y51eN0shiA&sid=c173b2e4b98a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%40WhiteDNS%20%7C%20FI1%7C16.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BB-FI%7CGM-FI%7CCL-FI%7CSP-FI
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?sni=au1.xiaoliyu.cyou&insecure=1#%E2%9D%93Other_1%7C2.5MB%2Fs
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_4%7C3.1MB%2Fs
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?sni=127.0.0.1&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_5%7C2.9MB%2Fs
+vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.cloudflare.com&fp=chrome&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.9MB%2Fs
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%AAPE_2%7C1.4MB%2Fs
+vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:29893?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.cloudflare.com&fp=chrome&pbk=JrWOojSFwFA93YjsiQkDydTItQzNAsXsHU24HuWGWjA&sid=bc8e3658db7d1323&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7FR_2%7C2.7MB%2Fs
+vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=firefox&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&sid=7025c954ff913b4c&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%AAPE_1%7C1.2MB%2Fs
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@23.81.34.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.servers.gracevpnbuy.com&fp=firefox&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C2.0MB%2Fs
+vless://15e83ced-7544-422e-863d-deafe29a1dbe@81.90.21.59:8444?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&type=xhttp&path=%2Fxh&mode=stream-one&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%B8%F0%9F%87%AASE_1%7C1.5MB%2Fs
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.17.123.101:2083?encryption=none&security=tls&sni=wzknb.pages.dev&fp=chrome&allowInsecure=1&type=ws&host=wzknb.pages.dev&path=%2Fproxyip%3D167.253.153.215#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.6MB%2Fs
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.123.243:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us.savesafe.cc&fp=firefox&pbk=zDeF_twyyT7a7zKiURF-Q8f6kkj95rx7zQ_jar09Hi4&sid=e4f6a3446ac34a23&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US_14%7C1.3MB%2Fs
+
 ```
 
 适用于：
