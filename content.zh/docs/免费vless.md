@@ -1,6 +1,6 @@
 ---
 
-title: "免费 Clash、VLESS、VMess、Trojan 节点（每日更新）"
+title: "免费 Clash、VLESS、VMess、Trojan 节点（最后更新：2026年8月19日）"
 description: "每日更新免费 Clash、VLESS、VMess、Trojan、Shadowsocks 节点，支持 Clash Verge Rev、Mihomo、v2rayN、Shadowrocket、Stash、Hiddify 等客户端。无需注册，复制订阅即可使用。"
 keywords:
 
@@ -19,7 +19,7 @@ weight: 5
 
 ---
 
-# 免费 Clash、VLESS、VMess、Trojan 节点（每日更新）
+# 免费 Clash、VLESS、VMess、Trojan 节点（最后更新：2026年8月19日）
 
 正在寻找**免费 Clash 节点**或**免费 VLESS 节点**？
 
