@@ -23,7 +23,7 @@ VLESS 是一个轻量级的代理协议，由 [V2Ray](https://en.wikipedia.org/w
 
 ### 2、购买vps
 
-我们按照上面的价格，以rarecloud为例，购买vps，支持支付宝付款，使用上面提供的优惠代码，点击打开购买链接，
+我们按照上面的价格，以rarecloud为例，购买vps，支持支付宝付款，使用上面提供的优惠代码，[点击打开购买链接](https://rarecloud.io/kvm-vps/?aff=738)，
 - 点击右上角，设置自己的语言
 - 系统选择debian-12，地区选择日本或者罗马尼亚
 
