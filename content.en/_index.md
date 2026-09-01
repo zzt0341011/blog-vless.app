@@ -22,7 +22,7 @@ First, prepare a VPS based on your needs. VPS from regions like Taiwan, the U.S.
 
 ### 2. Purchase a VPS
 
-Using **rarecloud** as an example:
+[Using **rarecloud** as an example](https://rarecloud.io/kvm-vps/?aff=738):
 - Supports Alipay payment.
 - Use the coupon code provided above.
 - Set language preference, select **Debian 12**, and choose **Japan** or **Romania** as the location.
