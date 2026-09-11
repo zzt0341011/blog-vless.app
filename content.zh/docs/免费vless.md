@@ -1,6 +1,6 @@
 ---
 
-title: "免费 Clash、VLESS、VMess、Trojan 节点（最后更新：2026年8月19日）"
+title: "免费 Clash、VLESS、VMess、Trojan 节点（最后更新：2026年9月11日）"
 description: "每日更新免费 Clash、VLESS、VMess、Trojan、Shadowsocks 节点，支持 Clash Verge Rev、Mihomo、v2rayN、Shadowrocket、Stash、Hiddify 等客户端。无需注册，复制订阅即可使用。"
 keywords:
 
@@ -60,16 +60,14 @@ https://sod.psjch.xyz/yaml/c6db78eed0b2035309891151b5d322f9.yaml
 ## V2Ray 通用订阅
 
 ```text
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?encryption=none&security=tls&sni=ru05.abvpn.ru&fp=edge&type=ws&host=ru05.abvpn.ru&path=%2Fwebsocket#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%2F%E3%80%91121
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?encryption=none&security=tls&sni=ru05.abvpn.ru&fp=edge&type=ws&host=ru05.abvpn.ru&path=%2Fwebsocket#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%2F%E3%80%916
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@rrr.windconnect.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rrr.windconnect.pro&fp=firefox&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&sid=4da5d1853f04af6d&type=tcp&headerType=none#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%2F%E3%80%9126
-vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?encryption=none&security=none&type=tcp&headerType=none#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%2F%E3%80%91120
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@31.76.71.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rrr.windconnect.pro&fp=firefox&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&sid=4da5d1853f04af6d&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%201765
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&path=%2F29c8fed7ca22#Rose%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20265
-vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=es1.hat.onl&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20VLESS%20%7C%2040
-vless://10000025-9365-7547-f000-30f4f61aa020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=onlineraceentry.co.uk&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&sid=ec2213ae33d5b43f&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%7C%20VLESS%20%7C%201026
-vless://10000026-0216-6626-f000-da35b731a020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=onlineraceentry.co.uk&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&sid=ec2213ae33d5b43f&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%7C%20VLESS%20%7C%201017
-vless://10000025-9781-8800-f000-5faeabc7a020@151.242.168.69:335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=onlineraceentry.co.uk&fp=qq&pbk=XJhq5Vpqo6j5Xsd56EMAK8--8EWBZWc3tjf-WFnInio&sid=ec2213ae33d5b43f&type=tcp&headerType=none#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B4%20NO%20%7C%20VLESS%20%7C%201208
+
+vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@171.22.129.56:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-one.quiet-rogue.site&fp=firefox&pbk=AKUQO-fKsD19FFBxNq5XTFCRXWDZfes4zJjRINY1KUI&sid=beff3ff061a64cfd&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B9%20%5BVL%5D%20%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F%20%2311022%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://b691d443-3d5b-47d3-9c6f-9b84beda2b13@uk1.kramiliantha.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk1.kramiliantha.sbs&fp=firefox&pbk=UzVp3x9LEOVeF_j_X2XzJrumdyfLEiFS0d6qDGVB_3M&sid=6252784c3b8de71a&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20%5BVL%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%233381%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@95.143.191.98:9889?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@95.143.191.98:9889?encryption=none&security=reality&sni=dl.google.com&fp=ios&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@95.143.191.98:9889?encryption=none&security=reality&sni=dl.google.com&fp=edge&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%7C%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://0b39a009-2a2a-4035-ba87-cc82894f8e21@connect3.nyxserver.ir:8444?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20%5BVL%5D%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%235275%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://77da6e30-ad4e-11f1-94d5-525400d1d4f7@144.172.104.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=firefox&pbk=n25FmewpAEsvLl9Vr0bRFcz044f4IE7orWeWOzu8rwk&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%B9%20%5BVL%5D%20%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B0%20%2311958%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 ```
 
 适用于：
